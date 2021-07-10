@@ -1,0 +1,2 @@
+- _A fast **learner**_
+- _A problem **solver**_ kind of 😜
