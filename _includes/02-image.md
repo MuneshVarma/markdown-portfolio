@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Munesh Varma's Photo](https://imgur.com/n5Hn4MO)
